@@ -1,1 +1,6 @@
-{\n  "versionCode": 2,\n  "versionName": "1.0.1",\n  "note": "\u4f18\u5316\u8bed\u97f3\u94fe\u8def: \u5206\u53e5\u6d41\u5f0f TTS + \u8bb0\u5fc6\u7ef4\u62a4\u540e\u53f0\u5316",\n  "downloadUrl": "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.2/VoiceAssist-debug.apk"\n}\n
+{
+    "versionCode":  2,
+    "versionName":  "1.0.1",
+    "note":  "优化语音链路: 分句流式 TTS + 记忆维护后台化",
+    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.2/VoiceAssist-debug.apk"
+}
