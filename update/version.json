@@ -1,6 +1,6 @@
 {
-    "versionCode":  2,
-    "versionName":  "1.0.1",
-    "note":  "优化语音链路: 分句流式 TTS + 记忆维护后台化",
-    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.2/VoiceAssist-debug.apk"
+    "versionCode":  3,
+    "versionName":  "1.0.2",
+    "note":  "用户画像归纳优化: 固定标签体系/去重去细节/英语学习子画像/夜间自动整理",
+    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.3/VoiceAssist-debug.apk"
 }
