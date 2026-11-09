@@ -1,6 +1,6 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.0.2",
-    "note":  "用户画像归纳优化: 固定标签体系/去重去细节/英语学习子画像/夜间自动整理",
-    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.3/VoiceAssist-debug.apk"
+    "versionCode":  4,
+    "versionName":  "1.0.3",
+    "note":  "新增记忆同步: 云端校验/差异比较 + 三种同步方式(覆盖云端/覆盖App/差异同步), 换机可用",
+    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.4/VoiceAssist-debug.apk"
 }
