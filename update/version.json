@@ -1,6 +1,6 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.0.6",
-    "note":  "修复图片功能: 拍照读取失败/缩略图不显示/发送无提示",
-    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.7/VoiceAssist-debug.apk"
+    "versionCode":  8,
+    "versionName":  "1.0.7",
+    "note":  "修复拍照无法启动(FileProvider 路径 + MediaStore 兜底)",
+    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.8/VoiceAssist-debug.apk"
 }
