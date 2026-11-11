@@ -1,6 +1,6 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.0.4",
-    "note":  "ASR 升级 qwen-audio-3.1-asr-flash(标点更准), 阿里 TTS 模型名同步更新",
-    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.5/VoiceAssist-debug.apk"
+    "versionCode":  6,
+    "versionName":  "1.0.5",
+    "note":  "长按录音键打断; 修复广告栏显示; 新增图片发送(拍照/相册)",
+    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.6/VoiceAssist-debug.apk"
 }
