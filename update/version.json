@@ -1,6 +1,6 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.0.5",
-    "note":  "长按录音键打断; 修复广告栏显示; 新增图片发送(拍照/相册)",
-    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.6/VoiceAssist-debug.apk"
+    "versionCode":  7,
+    "versionName":  "1.0.6",
+    "note":  "修复图片功能: 拍照读取失败/缩略图不显示/发送无提示",
+    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.7/VoiceAssist-debug.apk"
 }
