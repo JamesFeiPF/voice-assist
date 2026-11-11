@@ -1,6 +1,6 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.0.3",
-    "note":  "新增记忆同步: 云端校验/差异比较 + 三种同步方式(覆盖云端/覆盖App/差异同步), 换机可用",
-    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.4/VoiceAssist-debug.apk"
+    "versionCode":  5,
+    "versionName":  "1.0.4",
+    "note":  "ASR 升级 qwen-audio-3.1-asr-flash(标点更准), 阿里 TTS 模型名同步更新",
+    "downloadUrl":  "https://github.com/JamesFeiPF/voice-assist/releases/download/v0.1.5/VoiceAssist-debug.apk"
 }
